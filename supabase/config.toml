@@ -1,0 +1,13 @@
+project_id = "bcvvmfdmekdoocrwsfmb"
+
+[functions.skyscanner-flights]
+verify_jwt = true
+
+[functions.skyscanner-hotels]
+verify_jwt = true
+
+[functions.skyscanner-places]
+verify_jwt = true
+
+[functions.travel-chat]
+verify_jwt = true
